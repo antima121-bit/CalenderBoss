@@ -8,32 +8,24 @@
 [![Version](https://img.shields.io/cocoapods/v/CalendarKit)](https://cocoapods.org/pods/CalendarKit)
 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCx1gvWpy5zjOd7yZyDwmXEA?style=social)](https://www.youtube.com/channel/UCx1gvWpy5zjOd7yZyDwmXEA?sub_confirmation=1)
 [![Twitter](https://img.shields.io/twitter/follow/richardtop_ios?style=social)](https://twitter.com/richardtop_ios)
 [![GitHub followers](https://img.shields.io/github/followers/richardtop?style=social)](https://github.com/richardtop)
 
 
-[Richard Topchii on Telegram](https://t.me/richardtop)
 
 # CalendarKit
 **CalendarKit** is a Swift calendar UI library for iOS and Mac Catalyst. It looks similar to the Apple Calendar app out-of-the-box, while allowing customization when needed. CalendarKit is composed of multiple modules which can be used together or independently.
 
 ## Tutorials
 - [Create iOS Calendar App in Swift with CalendarKit - Official Tutorial](https://www.youtube.com/watch?v=cJ63-_z1qg8)
-- [Live Programming with CalendarKit - For Beginners](https://www.youtube.com/watch?v=krIfO3s3ZrM)
 
-## Need Help?
-If you have a **programming question** about how to use CalendarKit in your application, [Create a new GitHub Issue with the question tag](https://github.com/richardtop/CalendarKit/issues/new?assignees=&labels=question&projects=&template=question.md&title=).
 
-Check out the [Sample App](https://github.com/richardtop/CalendarApp) for reference.
-
-[Create a new Issue from template](https://github.com/richardtop/CalendarKit/issues/new/choose) to report a bug or request a new feature.
+[Create a new Issue from template](https://github.com/antima121-bit/CalendarKit/issues/new/choose) to report a bug or request a new feature.
 
 
 ## Examples
-[Video](https://www.youtube.com/watch?v=Fi-Qqp9BaAs)
 
-[Sample App](https://github.com/richardtop/CalendarApp)
+[Sample App](https://github.com/antima121-bit/CalendarApp)
 
 ## Installation
 CalendarKit can be installed with Swift Package Manager or with CocoaPods.
