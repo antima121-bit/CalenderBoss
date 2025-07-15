@@ -136,7 +136,7 @@ Before contributing, please review [guidelines and code style](https://github.co
 
 ## Author
 
-Richard Topchii
+Antima mishra
 
 
 ## License
