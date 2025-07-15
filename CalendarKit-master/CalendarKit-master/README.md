@@ -42,7 +42,7 @@ CalendarKit can be installed with Swift Package Manager or with CocoaPods.
 The preferred way of installing CalendarKit is via the [Swift Package Manager](https://swift.org/package-manager/).
 
 1. In Xcode, open your project and navigate to **File** → **Swift Packages** → **Add Package Dependency...**
-2. Paste the repository URL (`https://github.com/richardtop/CalendarKit.git`) and click **Next**.
+2. Paste the repository URL (`https://github.com/antima121-bit/CalendarKit.git`) and click **Next**.
 3. For **Rules**, select **Version (Up to Next Major)** and click **Next**.
 4. Click **Finish**.
 
@@ -129,14 +129,14 @@ dayView.updateStyle(style)
 - Swift 5.7+
 
 ## Contributing
-The list of features currently in development can be viewed on the [issues](https://github.com/richardtop/CalendarKit/issues) page.
+The list of features currently in development can be viewed on the [issues](https://github.com/antima121-bit/CalendarKit/issues) page.
 
-Before contributing, please review [guidelines and code style](https://github.com/richardtop/CalendarKit/blob/master/CONTRIBUTING.md).
+Before contributing, please review [guidelines and code style](https://github.com/antima121-bit/CalendarKit/blob/master/CONTRIBUTING.md).
 
 
 ## Author
 
-Richard Topchii
+Antima mishra
 
 
 ## License
